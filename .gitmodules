@@ -1,0 +1,9 @@
+[submodule "Mellis-Admin-v2"]
+	path = Mellis-Admin-v2
+	url = https://github.com/SkyGlowFire/Mellis-Admin-v2
+[submodule "Mellis-Client-v2"]
+	path = Mellis-Client-v2
+	url = https://github.com/SkyGlowFire/Mellis-Client-v2
+[submodule "Mellis-Api-v2"]
+	path = Mellis-Api-v2
+	url = https://github.com/SkyGlowFire/Mellis-Api-v2
